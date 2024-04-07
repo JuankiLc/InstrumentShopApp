@@ -1,0 +1,10 @@
+package instrumentos;
+
+public enum Familia {
+	VIENTO_MADERA,
+	VIENTO_METAL,
+	CUERDA_FROTADA,
+	CUERDA_PERCUTIDA,
+	CUERDA_PULSADA,
+	PERCUSION;
+}
